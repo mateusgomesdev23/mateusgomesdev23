@@ -1,4 +1,4 @@
-## Olá eu sou Mateus Gomes, designer e desenvolvedor front-end!
+## Olá👋, eu sou Mateus Gomes, designer e desenvolvedor front-end! 💻
  <div align="center">
   <a href="https://github.com/mateusgomesdev23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgomesdev23&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
